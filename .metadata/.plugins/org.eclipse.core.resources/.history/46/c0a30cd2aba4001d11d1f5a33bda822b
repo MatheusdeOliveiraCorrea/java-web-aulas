@@ -1,0 +1,20 @@
+<html>
+
+<body>
+
+	<form action="">
+		
+		<label>Nome:</label>
+		<input type="text" id="nome" name="nome">
+		
+		<label>Login:</label>
+		<input type="text" id="login" name="login">
+		
+		<label>Senha:</label>
+		
+		<p>Java é foda</p>
+	</form>
+
+</body>
+
+</html>

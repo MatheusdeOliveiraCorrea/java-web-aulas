@@ -1,0 +1,58 @@
+<html>
+
+<style>
+
+form{
+
+	margin: 35%;
+	margin-top: 25%;
+	padding: 2%;
+}
+
+#formulario{
+	border: 1px #ddd solid;
+	border-radius: 4%;
+	
+	padding: 2px;
+
+}
+
+html{
+	background-color: #92a8d1;
+}
+
+#botaoSalvar{
+
+width: 120px;
+color: blue;
+}
+
+</style>
+
+<body>
+
+	<div id="formulario">
+	<form action="">
+		<table>
+			<tr>
+				<td><label>Nome:</label></td>
+				<td><input type="text" id="nome" name="nome"></td>
+			</tr>
+
+			<tr>
+				<td><label>Login:</label></td>
+				<td><input type="text" id="login" name="login"></td>
+			</tr>
+
+			<tr>
+				<td><label>Senha:</label></td>
+				<td><input type="password" id="senha" name="senha"></td>
+				<td><input type="submit" id="botaoSalvar" value="Salvar"></td>
+			</tr>
+
+		</table>
+	</form>
+	</div>
+</body>
+
+</html>

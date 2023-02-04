@@ -1,0 +1,14 @@
+<html>
+
+<body>
+
+	<form action="">
+		
+		<input type="text" id="nome" name="nome">
+		
+		<p>Java é foda</p>
+	</form>
+
+</body>
+
+</html>
